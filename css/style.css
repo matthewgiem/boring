@@ -1,0 +1,14 @@
+
+.intro{
+  font-size: 40px;
+  color:red;
+}
+
+img.intro {
+  max-width: 20px;
+}
+
+
+h2.intro  {
+  color:blue;
+}
